@@ -1,0 +1,6 @@
+{
+  "name": "Science Coaching Academy (SCA)",
+  "description": "Science Coaching Academy (SCA) - Modern educational app for Class 8-12. Whiteboard uploads, notes management, exam schedules, and results tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
